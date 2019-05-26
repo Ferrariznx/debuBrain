@@ -7,9 +7,9 @@
 技术栈:
 ==== 
 * Vue.js  <br/>
-    *    Vue-router<br/>
-    *    Webpack<br/>
-   *     elementUI    
+* Vue-router<br/>
+* Webpack<br/>
+* elementUI    
        
 特点:
 ====
