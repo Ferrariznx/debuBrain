@@ -6,10 +6,10 @@
 
 技术栈:
 ==== 
-Vue.js  <br/>
-       Vue-router<br/>
-       Webpack<br/>
-       elementUI    
+* Vue.js  <br/>
+    *    Vue-router<br/>
+    *    Webpack<br/>
+   *     elementUI    
        
 特点:
 ====
@@ -24,7 +24,6 @@ Vue.js  <br/>
        
 快速开始
  =====
-<br/>
 npm install
 <br/>
 npm run dev
