@@ -6,7 +6,7 @@
 
 技术栈:
 ==== 
-<br/>Vue.js  <br/>
+Vue.js  <br/>
        Vue-router<br/>
        Webpack<br/>
        elementUI    
