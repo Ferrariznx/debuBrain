@@ -46,8 +46,10 @@ npm run dev
   ========
  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/shopbag.png)
  
- 登陆
+ 登陆验证
  ===
  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/log.png)
-  
-   
+ 
+ 确认订单
+ ==
+ ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/TIM%E6%88%AA%E5%9B%BE20190526151530.png)
