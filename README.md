@@ -13,6 +13,5 @@ npm run dev
 
  截图
  ========
-  ![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/head.png)
-  ![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/middle.png)
-  ![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/foot.png)
+  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/index.png)
+
