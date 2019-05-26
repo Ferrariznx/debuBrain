@@ -1,4 +1,6 @@
 # debuBrain极客社区
+
+
 技术栈:<br/>Vue.js  <br/>
        Vue-router<br/>
        Webpack<br/>
@@ -13,14 +15,24 @@ npm run dev
 
 
 
- 首页截图
+ 首页
   ========
   ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/index.png)
   
-  搜索结果页截图
+  搜索结果页
   ========
  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/result.png)
    
- 专题文章截图
+ 专题文章
   ========
  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/article.png)
+ 
+  推荐书籍商城
+  ========
+ ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/shopbag.png)
+ 
+ 登陆
+ ===
+ ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/log.png)
+  
+   
