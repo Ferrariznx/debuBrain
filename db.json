@@ -1,0 +1,99 @@
+{
+    "newsList":[
+                    {
+                        "title":"百度",
+                        "url":"www.baidu.com"
+                    },
+                    {
+                        "title":"腾讯",
+                        "url":"www.baidu.com",
+                        "hot":true
+                    },
+                    {
+                        "title":"阿里",
+                        "url":"www.baidu.com"
+                    },
+                    {
+                        "title":"头条",
+                        "url":"www.baidu.com"
+                    }
+                ],
+    "login":{
+        "username":"xxjjjhaoda",
+        "userId":"199889"
+    },
+    "getPrice":{
+        "amount":213
+    },
+    "createOrder":{
+        "orderId":"23sfa2"
+    },
+    "getOrderList": {
+        "list": [
+          {
+            "orderId": "100023",
+            "product": "Node.js源码分析",
+            "version": "中文版",
+            "period": "书签",
+            "buyNum": 2,
+            "date": "2016-10-10",
+            "amount": "36元"
+          },
+          {
+            "orderId": "100024",
+            "product": "深入浅出Vue.js",
+            "version": "英文版",
+            "period": "书套+书签",
+            "buyNum": 1,
+            "date": "2016-5-2",
+            "amount": "45元"
+          },
+          {
+            "orderId": "100025",
+            "product": "JavaScript高级程序设计",
+            "version": "中文版",
+            "period": "钢笔",
+            "buyNum": 12,
+            "date": "2016-8-3",
+            "amount": "789元"
+          },
+          {
+            "orderId": "100026",
+            "product": "JavaScript高级程序设计",
+            "version": "中文版",
+            "period": "钢笔",
+            "buyNum": 12,
+            "date": "2016-8-3",
+            "amount": "789元"
+          },
+          {
+            "orderId": "100027",
+            "product": "Node.js源码分析",
+            "version": "中文版",
+            "period": "钢笔",
+            "buyNum": 12,
+            "date": "2016-8-3",
+            "amount": "789元"
+          },
+          {
+            "orderId": "100028",
+            "product": "Spring Boot实战",
+            "version": "中文版",
+            "period": "钢笔",
+            "buyNum": 12,
+            "date": "2016-8-3",
+            "amount": "789元"
+          },
+          {
+            "orderId": "100029",
+            "product": "Spring Boot实战",
+            "version": "中文版",
+            "period": "钢笔",
+            "buyNum": 12,
+            "date": "2016-8-3",
+            "amount": "789元"
+          }
+
+        ]
+      }
+}

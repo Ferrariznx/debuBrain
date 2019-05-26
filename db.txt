@@ -1,0 +1,21 @@
+{
+newsList:[
+                {
+                    title:'百度',
+                    url:'www.baidu.com'
+                },
+                {
+                    title:'腾讯',
+                    url:'www.baidu.com',
+                    hot:true
+                },
+                {
+                    title:'阿里',
+                    url:'www.baidu.com'
+                },
+                {
+                    title:'头条',
+                    url:'www.baidu.com'
+                }
+            ]
+}
