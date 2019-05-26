@@ -1,19 +1,15 @@
 # debuBrain极客社区
-
 技术栈:Vue.js 
        Vue-router
        Webpack
        elementUI
 
 ## 启动过程
-
 ``` bash
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##首页截图
+![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/head.png)
