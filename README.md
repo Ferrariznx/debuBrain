@@ -10,13 +10,20 @@
 <br/>Vue.js  <br/>
        Vue-router<br/>
        Webpack<br/>
-       elementUI<br/>
+       elementUI    
        
-功能:
+特点:
 ====
+简约的设计，漂亮的界面<br/>
+支持用户的登陆登出<br/>
+用vue写的轮播图<br/>
+支持站内搜索<br/>
+推荐书籍的购买功能<br/>
+支付功能以及订单记录<br/>
+更多功能正在开发 敬请期待~
 
        
- 启动过程
+快速开始
  =====
 <br/>
 npm install
