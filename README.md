@@ -5,6 +5,7 @@
        elementUI<br/>
        
  启动过程
+ =====
 <br/>
 npm install
 <br/>
@@ -13,3 +14,5 @@ npm run dev
  截图
  ========
   ![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/head.png)
+  ![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/middle.png)
+  ![](https://raw.githubusercontent.com/Ferrariznx/debuBrain/master/foot.png)
