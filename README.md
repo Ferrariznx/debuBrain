@@ -52,4 +52,4 @@ npm run dev
  
  确认订单
  ==
- ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/TIM%E6%88%AA%E5%9B%BE20190526151530.png)
+ ![](https://github.com/Ferrariznx/debuBrain/blob/master/111.png)
