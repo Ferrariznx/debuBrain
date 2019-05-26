@@ -11,7 +11,16 @@ npm install
 <br/>
 npm run dev
 
- 截图
- ========
-  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/index.png)
 
+
+ 首页截图
+  ========
+  ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/index.png)
+  
+  搜索结果页截图
+  ========
+ ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/result.png)
+   
+ 专题文章截图
+  ========
+ ![](https://github.com/Ferrariznx/debuBrain/blob/master/static/article.png)
